@@ -1,0 +1,106 @@
+{
+  "encontros": [
+    {
+      "nome": "Encontro com Animais Selvagens",
+      "opcoes": [
+        {
+          "descricao": "Tentar espantá-lo",
+          "acao": "Com um grito alto e um objeto improvisado, você tenta intimidá-lo."
+        },
+        {
+          "descricao": "Subir em uma árvore",
+          "acao": "Buscando refúgio nos galhos, você espera o lobo ir embora."
+        },
+        {
+          "descricao": "Atacar o lobo",
+          "acao": "Com uma arma improvisada, você tenta abater o animal em uma luta desesperada."
+        }
+      ]
+    },
+    {
+      "nome": "Descoberta de um Assentamento",
+      "opcoes": [
+        {
+          "descricao": "Tentar contato",
+          "acao": "Com cautela e diplomacia, você se aproxima para entender suas intenções."
+        },
+        {
+          "descricao": "Observar à distância",
+          "acao": "Escondendo-se, você analisa o assentamento para decidir seu próximo passo."
+        },
+        {
+          "descricao": "Infiltrar-se no assentamento",
+          "acao": "Movido pela necessidade, você tenta entrar sorrateiramente para roubar recursos ou buscar ajuda."
+        }
+      ]
+    },
+    {
+      "nome": "Dilema Moral",
+      "opcoes": [
+        {
+          "descricao": "Ajudá-lo",
+          "acao": "Compartilhar seus recursos médicos e arriscar sua própria sobrevivência."
+        },
+        {
+          "descricao": "Ignorar o pedido",
+          "acao": "Raciocinando que não pode ajudar a todos, você segue em frente."
+        },
+        {
+          "descricao": "Tentar negociar",
+          "acao": "Em troca de ajuda, você exige algo em troca, como comida ou munição."
+        }
+      ]
+    },
+    {
+      "nome": "Tempestade Radioativa",
+      "opcoes": [
+        {
+          "descricao": "Um bunker abandonado",
+          "acao": "Um local seguro, mas com suprimentos escassos e a possibilidade de outros sobreviventes hostis."
+        },
+        {
+          "descricao": "Uma estação de metrô",
+          "acao": "Proteção contra a radiação, mas com o risco de encontrar criaturas perigosas ou outros sobreviventes."
+        },
+        {
+          "descricao": "Uma roupa de proteção improvisada",
+          "acao": "Equipado com materiais encontrados, você tenta se proteger da radiação enquanto busca um abrigo melhor."
+        }
+      ]
+    },
+    {
+      "nome": "Escolha Difícil",
+      "opcoes": [
+        {
+          "descricao": "Procurar por combustível",
+          "acao": "Arriscar-se explorando áreas perigosas em busca de gasolina ou outros combustíveis."
+        },
+        {
+          "descricao": "Tentar roubar o combustível de outro sobrevivente",
+          "acao": "Uma ação arriscada que pode te levar a um conflito violento."
+        },
+        {
+          "descricao": "Abandonar o veículo",
+          "acao": "Deixar o meio de transporte para trás e seguir a pé, diminuindo suas chances de fuga ou exploração."
+        }
+      ]
+    },
+    {
+      "nome": "Encruzilhada",
+      "opcoes": [
+        {
+          "descricao": "Seguir pela trilha mais segura",
+          "acao": "Optar pelo caminho menos arriscado, mesmo que isso signifique desviar do seu objetivo final."
+        },
+        {
+          "descricao": "Arriscar-se pela trilha mais promissora",
+          "acao": "Seguir por um caminho perigoso, mas que pode te levar a recursos valiosos ou informações importantes."
+        },
+        {
+          "descricao": "Subir em um ponto alto e observar",
+          "acao": "Buscar uma visão panorâmica para ter mais informações antes de tomar sua decisão."
+        }
+      ]
+    }
+  ]
+}
